@@ -42,6 +42,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature/new-feature`).
 6. Submit a pull request.
 
+## Example Screenshot (Home Section)
+
+![image](https://github.com/JeremiahRanen7/HR-DashBoard-UI/assets/141173239/8f840eb5-5695-4a0f-95da-4cc1234f7d0e)
+
 ## Acknowledgements
 
 - This project utilizes the Bootstrap framework for building the user interface.
