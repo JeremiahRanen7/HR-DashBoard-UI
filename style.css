@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins",sans-serif;
+}
+
+body{
+  background:#f4f4f4;
+}
+
+
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+    min-height: 30px !important;
+}
+
+.navbar-inverse {
+    background-color: #27b8d5 ; 
+    border-color: #2298b5;
+  }
+
+  .navbar-inverse .navbar-brand,
+  .navbar-inverse .navbar-nav > li > a {
+    color: #ffffff; 
+  }
+
+  .navbar-inverse .navbar-brand:hover,
+  .navbar-inverse .navbar-nav > li > a:hover,
+  .navbar-inverse .navbar-nav > li.active > a {
+    background-color: #29899c; 
+  }
+
+  .main-color-bg{
+    background-color: #27b8d5 !important; 
+    border-color: #2298b5 !important;
+    color: #ffffff !important;
+  }
+
+  #header{
+    background: #000;
+    color: #ffffff;
+    margin-bottom: 15px;
+    }
+
+  #header .create{
+    padding: 25px;
+  }
+
+  .breadcrumb{
+    background: #cccccc;
+    color: #333;
+  }
+
+  .breadcrumb a {
+    color: #333;
+  }
+
+  .list-group-mar{
+    margin-bottom: 26px;
+  }
+
+  .progress-bar{
+    background: #27b8d5;
+    color: #fff;
+  }
+
+  .dash-box{
+    text-align: center !important;
+  }
+
+  .field{
+    color:#27b8d5;
+    font-weight: bolder;
+  }
+
+  .well-mar{
+    margin-top: 15px;
+  }
+
+  .panel-body-mar{
+    padding-bottom: 23px;
+  }
+
+  .jumbotron-class{
+    margin-bottom: 10px;
+    padding: 26px;
+  }
+
+  .footer{
+    background-color: #27b8d5 !important;
+    color: #f4f4f4;
+    font-size: 24px;
+    padding: 8px !important;
+    font-weight: 900;
+  }
